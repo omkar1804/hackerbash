@@ -191,6 +191,31 @@ a{
   height: 100vh;
 }
 
-h3 {
-  text-align: center;
+h3{
+    text-align: center;
+}
+
+header h1
+{
+    position: relative;
+   top: 40%;
+   color: #fff;
+   left: auto;
+   margin-left: 1em;
+   text-align: center;
+   margin-right:1em;
+   text-shadow: coral;
+   -webkit-text-stroke: 1px black;
+   font-weight: bold;
+}
+
+body h2
+{
+    position: relative;
+   top: 35%;
+   color: #fff;
+   left: auto;
+   margin-left: 1em;
+   margin-right: 1em;
+   text-align: center;
 }
